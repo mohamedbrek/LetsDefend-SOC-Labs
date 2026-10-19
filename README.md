@@ -33,10 +33,10 @@ Each folder contains an individual lab including relevant investigation, finding
 ```text
 LetsDefend-SOC-Labs/
 ├── README.md
-├── SOC335 – CVE-2024-49138 Exploitation Detected
+├── SOC335 – CVE-2024-49138 Exploitation Detected/
 │   ├── README.md
 │   └── screenshots/
-└──  SOC336-CVE-2025-21298 Investigation
+└──  SOC336-CVE-2025-21298 Investigation/
     ├── README.md
     └── screenshots/
  
